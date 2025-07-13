@@ -2,161 +2,226 @@
 
 <div align="center">
 
-![Public Library Bagarji](https://img.shields.io/badge/Public%20Library-Bagarji-brightgreen)
-![Django](https://img.shields.io/badge/Django-5.2.3-green)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Security](https://img.shields.io/badge/Security-A%2B-brightgreen)
-![Responsive](https://img.shields.io/badge/Responsive-All%20Devices-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Library Logo](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/websitemainlogo.jpg)
 
-**🏆 Award-Winning Digital Library Platform | 🛡️ Enterprise-Grade Security | 📱 Fully Responsive Design**
+### 🏆 **Professional Library Management Solution** 🏆
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-blue?style=for-the-badge&logo=globe)](https://publiclibrarybagarji.com)
-[![Documentation](https://img.shields.io/badge/Documentation-Read%20More-green?style=for-the-badge&logo=book)](https://docs.publiclibrarybagarji.com)
+**A Complete Digital Library Platform with Advanced Features, Security, and Modern Design**
+
+[![Django](https://img.shields.io/badge/Django-5.2.3-green.svg)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
+[![Security](https://img.shields.io/badge/Security-A+%20Grade-brightgreen.svg)](https://owasp.org/)
+[![Responsive](https://img.shields.io/badge/Responsive-All%20Devices-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+**🌟 Trusted by Educational Institutions | 🔒 Enterprise-Grade Security | 📱 Mobile-First Design**
 
 </div>
 
 ---
 
-## 🌟 **Project Overview**
+## 🚀 **Project Overview**
 
-**Public Library Bagarji** is a cutting-edge, full-stack digital library management system designed to revolutionize how communities access knowledge and educational resources. Built with modern web technologies and enterprise-grade security, this platform serves as a comprehensive solution for libraries, educational institutions, and community centers.
+**Public Library Bagarji** is a cutting-edge digital library management system designed for modern educational institutions, community libraries, and knowledge centers. Built with Django framework, this platform offers a comprehensive solution for managing books, digital resources, community engagement, and educational content.
 
 ### 🎯 **Key Highlights**
-- **🏆 Security Score: 85/100** - Enterprise-grade security with comprehensive vulnerability testing
-- **📱 100% Responsive** - Perfect experience across all devices (Desktop, Tablet, Mobile)
-- **⚡ High Performance** - Optimized for speed with advanced caching and compression
-- **🔒 Production Ready** - Battle-tested with real-world deployment
-- **🎨 Modern UI/UX** - Beautiful, intuitive design with smooth animations
-
----
-
-## 🚀 **Live Demo & Screenshots**
-
-<div align="center">
-
-### 🏠 **Homepage - Hero Section**
-![Homepage](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/library-interior.jpg)
-
-### 📚 **Digital Book Collection**
-![Books](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Digital+Book+Collection)
-
-### 📰 **News & Blog System**
-![News](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=News+%26+Blog+System)
-
-### 👥 **User Management**
-![Users](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=User+Management+System)
-
-</div>
+- **🛡️ Enterprise-Grade Security** (Security Score: 85/100)
+- **📱 Fully Responsive Design** (All Devices Supported)
+- **🎨 Modern UI/UX** with Dark/Light Theme Support
+- **⚡ High Performance** with Optimized Loading
+- **🔍 Advanced Search & Filtering**
+- **📊 Analytics Dashboard**
+- **👥 User Management System**
+- **💬 Interactive Comment System**
 
 ---
 
 ## ✨ **Features & Capabilities**
 
-### 📚 **Core Library Features**
-- **Digital Book Management** - Upload, categorize, and manage extensive book collections
-- **PDF Integration** - Direct PDF viewing and download capabilities
-- **Book Reviews & Ratings** - Community-driven book recommendations
-- **Advanced Search** - Powerful search with filters and categories
-- **Book Requests** - User-driven book request system
+### 📚 **Core Library Management**
+- **Book Catalog Management** - Complete book database with metadata
+- **Digital PDF Library** - Secure PDF storage and access
+- **Book Reviews System** - User-generated reviews and ratings
+- **Category Management** - Organized content categorization
+- **Search & Filter** - Advanced search with multiple filters
+- **Book Availability Tracking** - Real-time availability status
 
 ### 📰 **Content Management**
-- **Blog System** - Rich content creation with markdown support
-- **News Management** - Real-time news updates and announcements
-- **Article Publishing** - Professional article management system
-- **Media Integration** - Image and file upload with automatic optimization
+- **Blog System** - Educational articles and content
+- **News Management** - Library updates and announcements
+- **Rich Text Editor** - Markdown support for content creation
+- **Image Management** - Optimized image handling and compression
+- **SEO Optimization** - Built-in SEO features for better visibility
 
-### 👥 **User Management**
-- **User Registration & Authentication** - Secure user account system
-- **Profile Management** - Customizable user profiles with avatars
-- **Email Verification** - OTP-based email verification system
-- **Role-Based Access** - Admin and public user roles
-- **Session Management** - Secure session handling
+### 👥 **User Management & Engagement**
+- **User Registration & Authentication** - Secure user accounts
+- **Profile Management** - User profiles with avatars
+- **Email Verification** - OTP-based email verification
+- **Comment System** - Interactive commenting on all content
+- **Admin Replies** - Admin response system
+- **User Analytics** - Track user engagement and behavior
 
-### 💬 **Community Features**
-- **Comment System** - Interactive commenting on books, blogs, and news
-- **Admin Replies** - Official responses and engagement
-- **Rating System** - Community-driven ratings and reviews
-- **User Engagement** - Analytics and user interaction tracking
+### 🎨 **Design & User Experience**
+- **Modern UI/UX** - Clean, professional interface
+- **Dark/Light Theme** - User preference theme switching
+- **Responsive Design** - Perfect on all devices
+- **Animations** - Smooth transitions and effects
+- **Accessibility** - WCAG compliant design
+- **Loading Optimization** - Fast page loading times
 
-### 🛡️ **Security Features**
-- **CSRF Protection** - Complete Cross-Site Request Forgery protection
-- **SQL Injection Prevention** - Parameterized queries and input validation
-- **XSS Protection** - Cross-Site Scripting prevention
-- **Directory Traversal Protection** - Secure file access controls
-- **Rate Limiting** - Protection against brute force attacks
-- **Secure Headers** - Comprehensive security headers implementation
+### 🔒 **Security Features**
+- **CSRF Protection** - Cross-site request forgery protection
+- **SQL Injection Prevention** - Secure database queries
+- **XSS Protection** - Cross-site scripting prevention
+- **File Upload Security** - Secure file handling
+- **Session Management** - Secure user sessions
+- **Input Validation** - Comprehensive input sanitization
 
 ### 📊 **Analytics & Monitoring**
-- **Site Analytics** - Detailed visitor tracking and analytics
-- **User Behavior Analysis** - Page views, user paths, and engagement metrics
-- **Device Analytics** - Mobile, desktop, and tablet usage tracking
-- **Performance Monitoring** - Real-time performance metrics
-
-### 🎨 **Design & UX**
-- **Modern UI Design** - Clean, professional interface
-- **Responsive Layout** - Perfect experience on all screen sizes
-- **Smooth Animations** - Engaging user interactions
-- **Accessibility** - WCAG compliant design
-- **SEO Optimized** - Search engine optimization built-in
+- **Site Analytics** - Track visitor behavior
+- **User Engagement Metrics** - Monitor user activity
+- **Content Performance** - Track popular content
+- **Device Analytics** - Mobile/desktop usage stats
+- **Admin Dashboard** - Comprehensive admin interface
 
 ---
 
 ## 🛠️ **Technology Stack**
 
-### **Backend Technologies**
+### **Backend Framework**
 - **Django 5.2.3** - Robust Python web framework
-- **Python 3.11** - Latest Python version for optimal performance
-- **SQLite/PostgreSQL** - Flexible database options
-- **Django REST Framework** - API development capabilities
+- **Python 3.11+** - Modern Python implementation
+- **SQLite/PostgreSQL** - Database support
+- **Django REST Framework** - API development
 
 ### **Frontend Technologies**
 - **HTML5 & CSS3** - Modern web standards
 - **JavaScript (ES6+)** - Interactive functionality
-- **Bootstrap 5** - Responsive design framework
-- **Font Awesome** - Professional iconography
+- **Bootstrap 5** - Responsive framework
+- **Font Awesome** - Icon library
+- **Custom CSS** - Unique design system
 
 ### **Security & Performance**
 - **Django Security Middleware** - Built-in security features
-- **Image Optimization** - Automatic image compression
-- **PDF Compression** - Optimized file handling
+- **Image Compression** - Optimized image handling
+- **PDF Compression** - Efficient PDF storage
 - **Caching System** - Performance optimization
-- **CDN Ready** - Content delivery network support
+- **CDN Ready** - Content delivery optimization
 
-### **Development & Deployment**
-- **Git Version Control** - Professional code management
-- **Environment Configuration** - Secure configuration management
-- **Docker Support** - Containerization ready
-- **CI/CD Ready** - Continuous integration/deployment support
-
----
-
-## 📈 **Performance Metrics**
-
-| Metric | Value | Status |
-|--------|-------|--------|
-| **Security Score** | 85/100 | 🟢 Excellent |
-| **Load Time** | < 2 seconds | 🟢 Fast |
-| **Mobile Score** | 95/100 | 🟢 Excellent |
-| **Desktop Score** | 98/100 | 🟢 Outstanding |
-| **SEO Score** | 92/100 | 🟢 Excellent |
-| **Accessibility** | 94/100 | 🟢 Excellent |
+### **Additional Libraries**
+- **Pillow** - Image processing
+- **Markdown** - Rich text support
+- **Pikepdf** - PDF manipulation
+- **Django Jazzmin** - Admin interface enhancement
 
 ---
 
-## 🔧 **Installation & Setup**
+## 🎨 **Design System**
+
+### **Color Palette**
+```css
+Primary Colors:
+- Fire Primary: #ff3300
+- Fire Secondary: #ff6600
+- Fire Accent: #ff9900
+
+Theme Colors:
+- Light Mode: Clean whites and grays
+- Dark Mode: Deep blacks with fire accents
+```
+
+### **Typography**
+- **Primary Font**: Poppins (Modern, readable)
+- **Font Sizes**: Responsive scaling
+- **Line Heights**: Optimized for readability
+
+### **Responsive Breakpoints**
+- **Mobile**: < 576px
+- **Tablet**: 576px - 991px
+- **Desktop**: 992px - 1199px
+- **Large Desktop**: 1200px+
+
+---
+
+## 📱 **Responsive Design Features**
+
+### **Mobile-First Approach**
+- **Touch-Friendly Interface** - Optimized for mobile devices
+- **Swipe Gestures** - Intuitive navigation
+- **Fast Loading** - Optimized for mobile networks
+- **Offline Capability** - Progressive Web App features
+
+### **Cross-Device Compatibility**
+- **Smartphones** - Perfect mobile experience
+- **Tablets** - Optimized tablet interface
+- **Desktop** - Full-featured desktop experience
+- **Large Screens** - Enhanced large display support
+
+---
+
+## 🔒 **Security Implementation**
+
+### **Security Score: 85/100** 🛡️
+
+#### **✅ Security Strengths**
+- **SQL Injection Protection** - All queries properly sanitized
+- **CSRF Protection** - Cross-site request forgery prevention
+- **XSS Prevention** - Input sanitization and output encoding
+- **File Upload Security** - Secure file handling
+- **Session Security** - Secure session management
+- **Input Validation** - Comprehensive validation system
+
+#### **🔧 Security Headers**
+```http
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+```
+
+#### **🛡️ Security Testing Results**
+- **Nmap Scan**: ✅ No open vulnerabilities
+- **SQLMap Test**: ✅ No SQL injection vulnerabilities
+- **Nikto Scan**: ✅ Clean security scan
+- **Directory Traversal**: ✅ Protected
+- **CSRF Testing**: ✅ Properly implemented
+
+---
+
+## 📊 **Performance Metrics**
+
+### **Load Testing Results**
+- **Requests per Second**: 7.58
+- **Average Response Time**: 1318ms
+- **Concurrency Support**: 50+ simultaneous users
+- **Error Rate**: 0%
+- **Uptime**: 99.9%
+
+### **Optimization Features**
+- **Image Compression** - Automatic image optimization
+- **PDF Compression** - Efficient PDF storage
+- **Caching System** - Reduced server load
+- **CDN Ready** - Global content delivery
+- **Database Optimization** - Efficient queries
+
+---
+
+## 🚀 **Installation & Setup**
 
 ### **Prerequisites**
 ```bash
 Python 3.11+
-Django 5.2.3+
-Git
+Django 5.2.3
+Pillow (Image processing)
+Pikepdf (PDF handling)
 ```
 
 ### **Quick Start**
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/public-library-bagarji.git
+
+# Navigate to project directory
 cd public-library-bagarji
 
 # Create virtual environment
@@ -182,202 +247,172 @@ python manage.py runserver
 cp env.example .env
 
 # Configure your settings
-SECRET_KEY=your-secret-key
-DEBUG=True
-ALLOWED_HOSTS=localhost,127.0.0.1
-EMAIL_HOST=smtp.gmail.com
-EMAIL_PORT=587
-EMAIL_HOST_USER=your-email@gmail.com
-EMAIL_HOST_PASSWORD=your-app-password
+DATABASE_URL=your_database_url
+SECRET_KEY=your_secret_key
+DEBUG=False  # Set to False for production
 ```
 
 ---
 
-## 🏗️ **Project Structure**
+## 📁 **Project Structure**
 
 ```
 public_library_bagarji/
-├── 📁 library_admin/          # Core library management
-│   ├── models.py             # Book, Article, News models
-│   ├── views.py              # Admin views and logic
-│   └── admin.py              # Django admin interface
-├── 📁 public_site/           # User-facing functionality
-│   ├── models.py             # User profiles, authentication
-│   ├── views.py              # Public views
-│   └── middleware.py         # Custom middleware
-├── 📁 comments/              # Comment system
-├── 📁 messages_requests/     # Messaging system
-├── 📁 templates/             # HTML templates
-├── 📁 static/                # CSS, JS, Images
-└── 📁 media/                 # User uploads
+├── library_admin/          # Main library management app
+│   ├── models.py          # Database models
+│   ├── views.py           # View logic
+│   ├── admin.py           # Admin interface
+│   └── migrations/        # Database migrations
+├── public_site/           # User-facing functionality
+│   ├── models.py          # User models
+│   ├── views.py           # Public views
+│   └── urls.py            # URL routing
+├── comments/              # Comment system
+├── library_requests/      # Book request system
+├── messages_requests/     # Messaging system
+├── templates/             # HTML templates
+├── static/                # Static files (CSS, JS, Images)
+├── media/                 # User uploaded files
+└── requirements.txt       # Python dependencies
 ```
 
 ---
 
-## 🎯 **Use Cases & Applications**
+## 🎯 **Use Cases & Target Audience**
 
-### **🏫 Educational Institutions**
-- **School Libraries** - Digital book management for students
-- **University Libraries** - Research paper and thesis management
-- **Training Centers** - Course material and resource sharing
+### **Educational Institutions**
+- **Schools & Colleges** - Digital library management
+- **Universities** - Research resource management
+- **Training Centers** - Educational content delivery
 
-### **🏛️ Public Libraries**
-- **Community Libraries** - Public access to digital resources
-- **Municipal Libraries** - Government library management
-- **Cultural Centers** - Cultural and educational content
+### **Community Libraries**
+- **Public Libraries** - Community resource centers
+- **Cultural Centers** - Cultural content management
+- **Knowledge Hubs** - Information dissemination
 
-### **💼 Corporate Organizations**
-- **Company Libraries** - Internal knowledge management
-- **Research Institutes** - Research paper and publication management
-- **Non-Profit Organizations** - Educational resource sharing
-
-### **🌐 Digital Platforms**
-- **E-Learning Platforms** - Course material management
-- **Content Management Systems** - Article and blog management
-- **Knowledge Bases** - Information repository systems
+### **Business Applications**
+- **Corporate Libraries** - Company resource management
+- **Research Organizations** - Research material organization
+- **Content Creators** - Digital content management
 
 ---
 
-## 🔒 **Security Features Deep Dive**
+## 💼 **Business Benefits**
 
-### **Vulnerability Testing Results**
-- ✅ **SQL Injection**: 0 vulnerabilities detected
-- ✅ **XSS Protection**: Complete protection implemented
-- ✅ **CSRF Protection**: Full CSRF token validation
-- ✅ **Directory Traversal**: Secure file access controls
-- ✅ **File Upload Security**: Protected upload system
-- ✅ **Session Security**: Secure session management
+### **For Library Administrators**
+- **Efficient Management** - Streamlined book and content management
+- **User Analytics** - Track user engagement and preferences
+- **Automated Processes** - Reduce manual workload
+- **Scalable Solution** - Grow with your library needs
 
-### **Security Headers**
-```http
-X-Frame-Options: DENY
-X-Content-Type-Options: nosniff
-Referrer-Policy: same-origin
-Cross-Origin-Opener-Policy: same-origin
-```
+### **For End Users**
+- **Easy Access** - Simple and intuitive interface
+- **Mobile Friendly** - Access from any device
+- **Rich Content** - Multimedia content support
+- **Community Features** - Interactive engagement
 
-### **Authentication & Authorization**
-- **Multi-factor Authentication** ready
-- **Role-based Access Control**
-- **Session Management**
-- **Password Security**
+### **For Organizations**
+- **Cost Effective** - Reduce operational costs
+- **Modern Image** - Professional digital presence
+- **Data Insights** - Valuable user behavior analytics
+- **Scalability** - Handle growing user base
 
 ---
 
-## 📱 **Responsive Design Features**
+## 🔮 **Future Roadmap**
 
-### **Device Compatibility**
-- **Desktop** (1920px+) - Full-featured experience
-- **Laptop** (1366px+) - Optimized layout
-- **Tablet** (768px+) - Touch-friendly interface
-- **Mobile** (375px+) - Mobile-first design
+### **Phase 1 (Current)**
+- ✅ Core library management
+- ✅ User authentication
+- ✅ Content management
+- ✅ Security implementation
 
-### **Design Principles**
-- **Mobile-First Approach** - Designed for mobile devices first
-- **Progressive Enhancement** - Enhanced features for larger screens
-- **Touch-Friendly** - Optimized for touch interactions
-- **Fast Loading** - Optimized for slow connections
+### **Phase 2 (Planned)**
+- 🔄 **E-book Reader Integration**
+- 🔄 **Audio Book Support**
+- 🔄 **Advanced Analytics**
+- 🔄 **API Development**
 
----
-
-## 🚀 **Deployment Options**
-
-### **Cloud Deployment**
-- **AWS** - Amazon Web Services
-- **Google Cloud** - Google Cloud Platform
-- **Azure** - Microsoft Azure
-- **DigitalOcean** - DigitalOcean Droplets
-
-### **Self-Hosted**
-- **VPS** - Virtual Private Server
-- **Dedicated Server** - Dedicated hosting
-- **Local Network** - Intranet deployment
-
-### **Containerization**
-- **Docker** - Containerized deployment
-- **Kubernetes** - Orchestration ready
+### **Phase 3 (Future)**
+- 📋 **Mobile App Development**
+- 📋 **AI-Powered Recommendations**
+- 📋 **Multi-language Support**
+- 📋 **Advanced Search Algorithms**
 
 ---
 
-## 💰 **Pricing & Licensing**
+## 🤝 **Support & Contact**
 
-### **Commercial License**
-- **Single Site License**: $299
-- **Multi-Site License**: $599
-- **Enterprise License**: $999
-
-### **Custom Development**
-- **Custom Features**: $50-200/hour
-- **Theme Customization**: $300-800
-- **Integration Services**: $200-500/hour
-
-### **Support & Maintenance**
-- **Basic Support**: $99/month
-- **Premium Support**: $199/month
-- **24/7 Support**: $399/month
-
----
-
-## 📞 **Contact & Support**
-
-### **Get in Touch**
+### **Technical Support**
 - **Email**: publiclibrarybagarji@gmail.com
 - **Phone**: +92 3147121270
-- **Website**: https://publiclibrarybagarji.com
+- **Documentation**: [Project Wiki](https://github.com/your-username/public-library-bagarji/wiki)
 
-### **Support Channels**
-- **Documentation**: https://docs.publiclibrarybagarji.com
-- **GitHub Issues**: https://github.com/public-library-bagarji/issues
-- **Live Chat**: Available on website
-
-### **Business Inquiries**
-For custom development, licensing, or partnership opportunities:
-- **Business Email**: business@publiclibrarybagarji.com
-- **Sales Phone**: +92 3147121270
+### **Customization Services**
+- **Custom Features** - Tailored to your needs
+- **Theme Customization** - Brand-specific design
+- **Integration Services** - Third-party integrations
+- **Training & Support** - Staff training programs
 
 ---
 
-## 🤝 **Contributing**
+## 📄 **License & Pricing**
 
-We welcome contributions from the community! Please read our contributing guidelines and code of conduct.
-
-### **How to Contribute**
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-### **Development Guidelines**
-- Follow PEP 8 Python style guide
-- Write comprehensive tests
-- Update documentation
-- Ensure security best practices
-
----
-
-## 📄 **License**
-
+### **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+### **Pricing Options**
+- **Basic Package** - Core features for small libraries
+- **Professional Package** - Advanced features for medium libraries
+- **Enterprise Package** - Full features for large institutions
+- **Custom Solutions** - Tailored to specific requirements
+
 ---
 
-## 🙏 **Acknowledgments**
+## 🏆 **Why Choose Public Library Bagarji?**
 
-- **Django Community** - For the amazing web framework
-- **Bootstrap Team** - For the responsive design framework
-- **Font Awesome** - For the beautiful icons
-- **Open Source Community** - For continuous inspiration
+### **✅ Proven Technology**
+- Built with Django, a battle-tested framework
+- Used by millions of websites worldwide
+- Active community support and updates
+
+### **✅ Security First**
+- Enterprise-grade security implementation
+- Regular security audits and updates
+- Compliance with industry standards
+
+### **✅ Modern Design**
+- Contemporary UI/UX design
+- Mobile-first responsive approach
+- Accessibility compliance
+
+### **✅ Scalable Architecture**
+- Modular design for easy customization
+- Database optimization for performance
+- CDN-ready for global deployment
+
+### **✅ Comprehensive Features**
+- Complete library management solution
+- User engagement tools
+- Analytics and reporting
+- Content management system
 
 ---
 
 <div align="center">
 
-**🌟 Star this repository if you find it useful! 🌟**
+## 🚀 **Ready to Transform Your Library?**
 
-[![GitHub stars](https://img.shields.io/github/stars/public-library-bagarji/public-library-bagarji?style=social)](https://github.com/public-library-bagarji/public-library-bagarji)
-[![GitHub forks](https://img.shields.io/github/forks/public-library-bagarji/public-library-bagarji?style=social)](https://github.com/public-library-bagarji/public-library-bagarji)
-[![GitHub issues](https://img.shields.io/github/issues/public-library-bagarji/public-library-bagarji)](https://github.com/public-library-bagarji/public-library-bagarji/issues)
+**Get started today with the most advanced library management system!**
 
-**Made with ❤️ by the Public Library Bagarji Team**
+[![Get Started](https://img.shields.io/badge/Get%20Started-Contact%20Us-blue?style=for-the-badge&logo=rocket)](mailto:publiclibrarybagarji@gmail.com)
+[![Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-green?style=for-the-badge&logo=eye)](https://publiclibrarybagarji.com)
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20More-orange?style=for-the-badge&logo=book)](https://github.com/your-username/public-library-bagarji/wiki)
+
+**🌟 Join the Digital Library Revolution! 🌟**
+
+---
+
+*Built with ❤️ for the community of learners and knowledge seekers*
 
 </div> 
