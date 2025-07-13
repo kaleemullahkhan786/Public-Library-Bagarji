@@ -55,7 +55,7 @@
 
 ### 👥 **User Management & Engagement**
 - **User Registration & Authentication** - Secure user accounts
-- **Profile Management** - User profiles with avatars
+- **Profile Management** - User can upload profile image (avatars by defualt)
 - **Email Verification** - OTP-based email verification
 - **Comment System** - Interactive commenting on all content
 - **Admin Replies** - Admin response system
