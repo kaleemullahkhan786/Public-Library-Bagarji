@@ -41,7 +41,7 @@
 ### 📚 **Core Library Management**
 - **Book Catalog Management** - Complete book database with metadata
 - **Digital PDF Library** - Secure PDF storage and access
-- **Book Reviews System** - User-generated reviews and ratings
+- **Reviews System** - User-generated reviews and ratings
 - **Category Management** - Organized content categorization
 - **Search & Filter** - Advanced search with multiple filters
 - **Book Availability Tracking** - Real-time availability status
