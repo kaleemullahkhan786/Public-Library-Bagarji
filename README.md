@@ -219,7 +219,7 @@ Pikepdf (PDF handling)
 ### **Quick Start**
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/public-library-bagarji.git
+git clone https://github.com/kaleemullahkhan786/Public-Library-Bagarji.git
 
 # Navigate to project directory
 cd public-library-bagarji
@@ -407,7 +407,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Get Started](https://img.shields.io/badge/Get%20Started-Contact%20Us-blue?style=for-the-badge&logo=rocket)](mailto:publiclibrarybagarji@gmail.com)
 [![Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-green?style=for-the-badge&logo=eye)](https://publiclibrarybagarji.com)
-[![Documentation](https://img.shields.io/badge/Documentation-Read%20More-orange?style=for-the-badge&logo=book)](https://github.com/your-username/public-library-bagarji/wiki)
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20More-orange?style=for-the-badge&logo=book)](https://github.com/kaleemullahkhan786/Public-Library-Bagarji/wiki)
 
 **🌟 Join the Digital Library Revolution! 🌟**
 
