@@ -58,7 +58,7 @@
 - **Profile Management** - User can upload profile image (avatars by defualt)
 - **Email Verification** - OTP-based email verification
 - **Comment System** - Interactive commenting on all content
-- **Admin Replies** - Admin response system
+- **Comment Replies** - Reply & response system
 - **User Analytics** - Track user engagement and behavior
 
 ### 🎨 **Design & User Experience**
