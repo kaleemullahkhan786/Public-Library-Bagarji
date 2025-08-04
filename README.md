@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Library Logo](https://raw.githubusercontent.com/Public-Library-Bagarji/Media/main/Static_img/websitemainlogo.jpg)
-
 ### 🏆 **Professional Library Management Solution** 🏆
 
 **A Complete Digital Library Platform with Advanced Features, Security, and Modern Design**
